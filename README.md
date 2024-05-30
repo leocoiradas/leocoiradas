@@ -3,7 +3,8 @@
 <div align="center" height="500" width="80%">
   <img width="100%" src="https://www.canva.com/design/DAGGqRQ31LQ/t0YQsQ9t_A5Ys4wyvMWa1w/edit?utm_content=DAGGqRQ31LQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
 </div> -->
-https://www.canva.com/design/DAGGqRQ31LQ/t0YQsQ9t_A5Ys4wyvMWa1w/edit?utm_content=DAGGqRQ31LQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![image](https://github.com/leocoiradas/leocoiradas/assets/101076389/3df98d8e-0b88-4448-b041-ba355e3cfdfc)
+
 <!--
 **leocoiradas/leocoiradas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
