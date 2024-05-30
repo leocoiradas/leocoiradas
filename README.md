@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<!--
+<div align="center" height="500" width="80%">
+  <img width="100%" src="https://www.canva.com/design/DAGGqRQ31LQ/t0YQsQ9t_A5Ys4wyvMWa1w/edit?utm_content=DAGGqRQ31LQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+</div> -->
+https://www.canva.com/design/DAGGqRQ31LQ/t0YQsQ9t_A5Ys4wyvMWa1w/edit?utm_content=DAGGqRQ31LQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <!--
 **leocoiradas/leocoiradas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,9 +40,16 @@ Here are some ideas to get you started:
 </div>
 
 ## 📈 Here are my stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leocoiradas&layout=compact&langs_count=6) 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocoiradas)](https://github.com/anuraghazra/github-readme-stats) -->
+<div align="center" width="100%">
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leocoiradas&layout=compact&langs_count=6&card_width=320" />
+    </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leocoiradas" />
+  </a>
+</div>
+
+
 
 
 
