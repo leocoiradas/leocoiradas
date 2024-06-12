@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/95a909b3-5874-418b-b0ec-bf94df925520" />
   <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/a6260e29-44a0-4c69-9d25-ede1c0b7bedc" />
   <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/46eb8560-46a1-4604-881c-e4bb11f06746" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div>
 <div align="center" width="50%">
   <!--NET, C#, Microsoft Sql Server, git, github-->
