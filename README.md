@@ -20,25 +20,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🖥 Some technologies I use:
-<div align="center" width="100%">
-  <!--HTML CSS JAVASCRIPT REACT REDUX MONGODB NODEJS-->
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/89318fdd-f59b-4cf4-8931-f2b5ad11b9d0" />
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/322a4e41-3ef5-4d5c-a468-02e2e0073f7c" />
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/f6c1c98b-54e6-4cab-a22f-f2a43a34a712" />
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/1fe484e5-6a7c-4527-b1df-46e8c09eb92d" />
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/effedd1e-0909-4811-818c-987053271dd0" />
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/95a909b3-5874-418b-b0ec-bf94df925520" />
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/a6260e29-44a0-4c69-9d25-ede1c0b7bedc" />
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/46eb8560-46a1-4604-881c-e4bb11f06746" />
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 </div>
-<div align="center" width="50%">
-  <!--NET, C#, Microsoft Sql Server, git, github-->
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/0032c8d5-1b9f-433a-b9e4-64618f219552" />
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/d4aab64c-442a-4bf4-aa1a-b9ba988398a3" />
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/cfe9d516-452d-438c-bf6f-98d2cc390eef" />
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/85805f69-b7e6-44c8-aa98-6c390ede1dad" />
-  <img src="https://github.com/leocoiradas/leocoiradas/assets/101076389/0b395045-cf3a-400e-8041-e79a7f369d41" />
-</div>
+
 
 ## 📈 Here are my stats:
 <div align="center" width="100%">
